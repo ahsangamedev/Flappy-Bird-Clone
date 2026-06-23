@@ -6,7 +6,7 @@ public class PlayerScript : MonoBehaviour
 {
 
     private SpriteRenderer spriteRenderer;
-    public Sprite[] sprites;
+    public Sprite[] sprites; // making an array of sprites
     private int spriteIndex;
 
     private Vector3 direction;
