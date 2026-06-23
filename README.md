@@ -1,6 +1,7 @@
-<img width="480" height="408" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" src="https://github.com/user-attachments/assets/58ae1167-109d-4848-aa6b-b01f69247206" />
+
 download and play the game at
-https://cindralstudios.itch.io/flappy-bird
+https://cindralstudios.itch.io/flappy-bird 
+
 
 
 https://github.com/user-attachments/assets/63209968-a97e-46e6-9a33-f977ae25e29b
